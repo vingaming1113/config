@@ -18,6 +18,6 @@ power profiles daemon
 
 thunar
 
-
+blueman
 
 \(also I havent listed all packages since I dont know all of them, I just used the default endeavouros config and added and changed some things)\
