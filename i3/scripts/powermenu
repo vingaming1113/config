@@ -118,7 +118,8 @@ menu=(
   [ Reboot]="systemctl reboot"
   [ Suspend]="systemctl suspend"
   [ Hibernate]="systemctl hibernate"
-  [ Lock]="~/.config/i3/scripts/blur-lock"
+  # [ Lock]="~/.config/i3/scripts/blur-lock"
+  [ Lock]="xscreensaver-command -lock"
   [ Logout]="i3-msg exit"
   [ Cancel]=""
 )
