@@ -1,4 +1,7 @@
-d# these are my config files for i3 and other things
+# these are my config files for i3 and other things
+
+
+
 
 # packages needed
 picom-git  \[get from aur]\
