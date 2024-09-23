@@ -23,8 +23,10 @@ thunar
 
 blueman
 
+flameshot
+
 \(also I havent listed all packages since I dont know all of them, I just used the default endeavouros config and added and changed some things)\
 
 
 what the config looks like
-![what the config looks like](https://github.com/user-attachments/assets/b44bad3d-05b2-4f48-be2e-33c9e9d5dce4)
+![what the config looks like](https://raw.githubusercontent.com/vingaming1113/config/refs/heads/main/images%20in%20readme/whatitlookslike.png)
