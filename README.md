@@ -29,4 +29,4 @@ flameshot
 
 
 what the config looks like
-![what the config looks like](https://raw.githubusercontent.com/vingaming1113/config/refs/heads/main/images%20in%20readme/whatitlookslike.png)
+![what the config looks like](https://github.com/vingaming1113/config/blob/main/images%20in%20readme/whatitlookslikenew.png?raw=true)
